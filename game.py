@@ -1,4 +1,3 @@
-from aiohttp import payload_type
 import pygame, sys, random
 
 pygame.init()
