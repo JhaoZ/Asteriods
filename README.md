@@ -21,8 +21,5 @@ Space Bar is used for shooting lasers
 Power Ups (There is 1 powerup, although support for multiple ones are set up so it can be easily added):
 Bullet Case - Increases fire for 5 seconds
 
-Gameplay:
-
-
 
 Originally made for UIUC SOSP 2022
